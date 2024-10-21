@@ -1,0 +1,9 @@
+body {
+  background-color: #192a56;
+  color: aqua;
+  !important
+}
+
+.section {
+  padding: 40px;
+}
